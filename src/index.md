@@ -6,6 +6,6 @@ archiveButtonText: See all posts
 socialImage: ''
 ---
 
-Deanna is a technical writer and Oxford comma-loving aficinado. I focus on finding ways to make writing clear and accessible to create a positive user experience [TO DO].
+I'm a technical writer and Oxford comma-loving aficinado. I'm all about finding ways to make writing clear and accessible to improve user experience.
 
 Technical Tidbits is home to various thought sketches and tutorials related to technical communication and UX/UI design.
