@@ -5,7 +5,7 @@ title: A tech writer's toolbox
 Over the last nine months or so, I've been compiling a list of resources for someone looking to transition into technical writing. Keep in mind that:
 1. This is not an exhaustive list. 
 2. You don't have to learn everything on this list. 
-3. Some of these tools and languages may not be applicable for the type of job you're seeking (i.e. working at a medical company that uses wikis for documentation vs. a product development group that uses git to manage their documentation).
+3. Some of these tools and languages may not be applicable for the type of job you're seeking (i.e. not all jobs ask for candidates with DITA expertise, familiarity with JavaScript, etc).
 
 ---
 
