@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Release otes
+title: Release notes
 ---
 # April 20, 2020
 
@@ -13,6 +13,6 @@ It's been a struggle, but at long last, this site is finally up and running. Ove
 * Wrote "welcome text" for the homepage. 
 * Changed highlight value from yellow to a lovely muted blue.
 
-## Performance
+### Performance
 
 * Analyzed Page Speed for the first time - currently sitting at 100. I'm aware there's not much here, but that's okay. Will try to keep it between 95 - 100 always.
