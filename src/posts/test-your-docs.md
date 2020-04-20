@@ -19,7 +19,7 @@ When software developers test their code, they may test the application's functi
 
 ## Why do you need to test your docs?
 
-Aside from the reasons listed above, there are three reasons why you should test your documentation. 
+Aside from the reasons listed above, there are several reasons why you should test your documentation. 
 
 ### 1. Consistent formatting = positive user experience
 
