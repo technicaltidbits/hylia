@@ -6,8 +6,8 @@
   "authorEmail": "me@andy-bell.design",
   "authorHandle": "@hankchizljaw",
   "authorName": "Andy Bell",
-  "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
+  "enableThirdPartyComments": true,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
-  "faviconPath": "/images/favicon-2.png"
+  "faviconPath": "/images/favicon-2.png",
+  "maxPostsPerPage": 5
 }
