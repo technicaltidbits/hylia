@@ -1,5 +1,5 @@
 ---
-title: Three reasons why you should test your docs
+title: Two reasons why you should test your docs
 date: '2020-04-25'
 tags:
   - testing
