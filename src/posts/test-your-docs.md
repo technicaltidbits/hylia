@@ -13,7 +13,7 @@ When software developers test their code, they may test the application's functi
 
 ### 1. Broken links = bad user experience
 
-Imagine that you're browsing an article about mechanical keyboards because you're thinking of buying one. The author lists several links to keyboards they recommend. You click on one of the links and....nothing. The links are broken, and you get this:
+Imagine that you're reading an article about mechanical keyboards because you're thinking of buying one. The author lists several links to keyboards they recommend. You click on one of the links and....nothing. The links are broken, and you get this:
 
 ![Classic 404 not found page](/images/404-not-found.png)
 
@@ -25,7 +25,7 @@ As someone who edits technical documentation, I cannot stress enough the importa
 
 #### Style
 
-It's important to keep your style consistent across your documentation. Multiple writers often work on the documentation and not everyone writes in the same style. One writer may write in a style that's too informal. Another writer may use acronyms users are unfamiliar with, which can be confusing. If you don't keep your style and voice consistent, users will encounter a different author on every page. 
+It's important to keep your style consistent across your documentation. Multiple writers often work on the documentation and not everyone writes in the same style. One writer may write in a style that's too informal. Another writer may use long, winding sentences that never end.  If you don't keep your style and voice consistent, users will encounter a different author on every page. 
 
 The best way to keep your style consistent is to use a style guide. Ideally, your company has one for you to use; if not, you can always use a third-party style guide, like the Chicago Manual of Style.
 
@@ -41,13 +41,13 @@ There are several linters out there that you can use to test your documentation.
 
 ### Vale Server 
 
-You can use this popular doc linter from the command line, or you can use their desktop application. This linter focuses on writing style. 
+You can use this popular linter from the command line, or you can use their desktop application. This linter focuses on writing style. 
 
 I personally use Vale Server because you can use third-party styles with the application, like the Microsoft Style Guide or the Google Developer Documentation Style guide. In other words, if your company uses Microsoft's Writing Style Guide, you can configure Vale to catch any errors contradictory to the Microsoft style guide.
 
 ### write-good
 
-write-good is another popular doc linter that also focuses on writing style and is available for use through the command line. I've found that it focuses on passive voice, wordiness, and "weasel words" (e.g. words like "really", "simply"). 
+write-good is another popular linter that also focuses on writing style and is available for use through the command line. I've found that it focuses on passive voice, wordiness, and "weasel words" (e.g. "really", "simply"). 
 
 One of the benefits of write-good is that it allows users to disable certain checks (i.e. "don't check for hyphens"), or enable certain checks (i.e. "only check for passive voice"). It's customizable to your company's writing style.
 
@@ -55,7 +55,7 @@ One of the benefits of write-good is that it allows users to disable certain che
 
 * Testing your documentation can greatly improve your users' experience
 * Linters for documentation can check your writing for broken links, grammar, and style
-* Style guides can help to make sure writers write with a consistent style and tone
+* Style guides can help you achieve consistency across your documentation
 
 ## Links to learn more
 
