@@ -2,7 +2,7 @@
 name: Contribute to the resources page
 about: Issue template for additions to resources page
 title: "[RESOURCES PAGE]"
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
