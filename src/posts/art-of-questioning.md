@@ -1,12 +1,12 @@
 ---
-title: 'The Art of Effective Querying'
+title: 'The Art of Asking Questions'
 date: '2020-04-30'
 tags:
     - querying
     - communication
     - SMEs
 ---
-There's one thing that I never learned while I was studying for my technical writing certification. It's something that was rarely mentioned in any of the books that I read during my office hours back when I was teaching. It's about making *effective queries* as a techncial writer. 
+There's one thing that I never learned while I was studying for my technical writing certification. It's something that was rarely mentioned in any of the books that I read during my office hours back when I was teaching. It's about *asking good questions*.
 
 I'm no seasoned technical writer (yet), but I can tell you that it's probably the most important skill a technical writer needs to learn.
 
