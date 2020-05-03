@@ -14,6 +14,8 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 // Import data files
 const site = require('./src/_data/site.json');
 
+const inclusiveLangPlugin = require("@11ty/eleventy-plugin-inclusive-language");
+
 module.exports = function(config) {
   // Filters
   config.addFilter('dateFilter', dateFilter);
@@ -36,6 +38,8 @@ module.exports = function(config) {
   config.addPassthroughCopy('node_modules/nunjucks/browser/nunjucks-slim.js');
 
   const now = new Date();
+
+  config.addPlugin(inclusiveLangPlugin);
 
   // Custom collections
   const livePosts = post => post.date <= now && !post.data.draft;
