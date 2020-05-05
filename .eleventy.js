@@ -14,7 +14,11 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 // Import data files
 const site = require('./src/_data/site.json');
 
+//Import inclusive language
 const inclusiveLangPlugin = require("@11ty/eleventy-plugin-inclusive-language");
+
+//Import navigation plugin
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = function(config) {
   // Filters
@@ -39,7 +43,11 @@ module.exports = function(config) {
 
   const now = new Date();
 
+  //Inclusive language plugin
   config.addPlugin(inclusiveLangPlugin);
+
+  //Navigation plugin
+  config.addPlugin(eleventyNavigationPlugin);
 
   // Custom collections
   const livePosts = post => post.date <= now && !post.data.draft;
