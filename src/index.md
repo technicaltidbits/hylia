@@ -6,7 +6,8 @@ archiveButtonText: See all posts
 socialImage: ''
 ---
 
-<link href="https://github.com/technicaltidbits/" rel="me">
+<link href="https://github.com/technicaltidbits" rel="me">
+
 
 
 I'm a technical writer and Oxford comma-loving aficinado. I'm all about finding ways to make writing clear and accessible to improve user experience.
