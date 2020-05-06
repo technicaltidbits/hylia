@@ -25,13 +25,13 @@ If you read my previous [post](https://technicaltidbits.net/posts/test-your-docs
 
 >Linters for code look for syntax errors, code smells, typos, and other bugs. Linters for documentation look for style errors, spelling and punctuation errors, or broken links. 
 
-Two popular linters I've learned about are write-good and Vale. Both are useful for writers looking to make sure that their documentation has a consistent style and tone and no spelling/grammar errors.
+Two popular linters I've learned about are write-good and Vale. Both are useful for writers looking to make sure that their documentation has a consistent style, consistent tone, and no spelling/grammar errors.
 
-I like Vale because it has an extension for Visual Studio Code, my IDE of choice, in addition to a command-line interface (CLI). Also, you can customize Vale to use third-party style guides or even create your own rules specific to your company's brand guidelines. 
+If you're interested in using Vale, you can either use the desktop application, Vale Server, or the command-line interface (CLI) for linting. I personally like Vale because you can customize it to use third-party style guides or even create your own rules specific to your company's brand guidelines. 
 
-Because docs as code and testing documentation are growing in popularity, I thought it'd be useful to write a three-part series that teaches the basics of using Vale: installing the CLI, configuring Vale, and applying Vale to documentation files.
+Because docs as code and testing documentation are growing in popularity, I thought it'd be useful to write a three-part series that teaches the basics of using Vale. This series will focus on the CLI, not the application.
 
-By the end of the series, you'll know how to configure and apply Vale to your own documentation files. Look out for part one soon!
+By the end of the series, you'll know how to install, configure, and apply Vale to your own documentation files. Look out for part one soon!
 
 ## Further reading
 
@@ -46,4 +46,4 @@ By the end of the series, you'll know how to configure and apply Vale to your ow
 
 ### Vale
 
-* [Vale's website](https://errata.ai/vale-server/)
+* [Vale CLI website](https://github.com/errata-ai/vale)
