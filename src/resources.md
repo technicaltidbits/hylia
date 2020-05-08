@@ -31,7 +31,7 @@ Over the last nine months or so, I've been compiling a list of resources for som
 * IDEs: Visual Studio Code, Atom
 * Graphics: SnagIt, OmniGraffle 
 * Authoring tools: oXygen XML Editor, MadCap Flare, RoboHelp
-* For writing/documenting APIs: Postman
+* APIs: Postman
 * Testing documentation: [Vale Server](https://errata.ai/vale-server/), [write-good linter](https://marketplace.visualstudio.com/items?itemName=travisthetechie.write-good-linter)
 
 ## Other tools and programming languages to know 
@@ -44,5 +44,9 @@ Over the last nine months or so, I've been compiling a list of resources for som
 * DITA XML - **consider learning the basics; if you find yourself interested in learning more or want to work in DITA shop, then dive deep**
 * Static Site Generators (SSGs) - **helpful to know if you want to work in product development groups**
 
-##### last updated: april 18, 2020
+### Want to contribute to this page?
+
+If you know of any books, articles, or tools that new technical writers should know, I'd love it if you added them to this list. To do so, file a [Github Issue](https://github.com/technicaltidbits/hylia/issues).
+
+##### last updated: april 28, 2020
 
