@@ -1,6 +1,6 @@
 ---
 title: "Vale Series: Learn the Vale CLI (Part One)"
-date: '2020-05-08'
+date: '2020-05-11'
 tags:
     - vale
     - beginners
@@ -8,12 +8,11 @@ tags:
     - vale CLI
 ---
 
-## Before you read
-Check out [this](https://technicaltidbits.net/posts/test-your-docs/) post about testing documentation and [this](https://technicaltidbits.net/posts/learn-vale/) post about Vale if you haven't read them.
+In this tutorial, you'll learn how to install the Vale CLI, a style linter. This tool allows you to your doc files for style and grammar. This is the first in a three part [series](https://technicaltidbits.net/posts/learn-vale/) about installing Vale.
 
 ## Assumptions
 
-* You have some familiarity with using the terminal. 
+* You have some familiarity with using the command line. 
 
 ## Instructions 
 

@@ -1,11 +1,12 @@
 ---
 title: Install the Vale CLI (Mac)
-date: '2020-05-08'
+date: '2020-05-11'
 tags:
     - vale
     - beginners
     - tutorial 
     - vale CLI
+    - mac
 ---
 To install Vale on your computer, you'll need to use a package manager. Package managers allow you to install and update packages and libraries. 
 

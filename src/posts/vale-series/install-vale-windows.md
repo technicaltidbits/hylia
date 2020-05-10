@@ -1,11 +1,12 @@
 ---
 title: Install the Vale CLI (Windows)
-date: '2020-05-08'
+date: '2020-05-11'
 tags:
     - vale
     - beginners
     - tutorial 
     - vale CLI
+    - windows
 ---
 To install Vale on your computer, you'll need to use a package manager. Package managers allow you to install and update packages and libraries. 
 
@@ -27,7 +28,7 @@ Windows users can install Vale using [**Chocolatey**][Chocolatey link]. If you'v
 
 ---
 
-That's all you need to do to install the Vale CLI on your Windows computer! Next, you'll learn how to configure and customize Vale for your documentation needs. 
+That's all you need to do to install the Vale CLI! Next, you'll learn how to configure and customize Vale for your documentation needs. 
 
 [Chocolatey link]: https://package.chocolatey.org/
 
