@@ -22,13 +22,13 @@ The best package manager for macOS is [**Homebrew**][Homebrew link]. If you've a
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)".
 ```
 
-2. To verify that you installed Homebrew, run the command `brew help`. This command prints help info to the terminal. If you see output in the terminal, you successfully installed Homebrew.
+1. To verify that you installed Homebrew, run the command `brew help`. This command prints help info to the terminal. If the installation was successful, you'll see output in the terminal.
 
 ## Step two: Install Vale 
 
 1. From the terminal, run the command `brew install vale`. You'll see some output in the terminal as Homebrew installs Vale on your Mac. 
 
-2. To verify that you installed Vale, run the command `vale -v` in the terminal. This command prints the current version to the terminal. As of May 2020, the latest version is `2.1.1`. 
+2. Verify that the `vale` command is now available by running `vale -v` in the terminal. If the installation was successful, the command reports the latest, stable version of Vale.
 
 ---
 

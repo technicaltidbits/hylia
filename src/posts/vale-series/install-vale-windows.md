@@ -18,13 +18,13 @@ Windows users can install Vale using [**Chocolatey**][Chocolatey link]. If you'v
 
 1. The documentation for Chocolatey is very thorough and walks you through the steps to install it on your computer. [Here's](https://chocolatey.org/install) the link with the installation steps.
 
-2. To verify that you installed Chocolatey, run the command `choco -?`. This command prints help info to the terminal.. If you see output in the terminal, you successfully installed Chocolatey.
+2. To verify that you installed Chocolatey, run the command `choco -?`. This command prints help info to the terminal. If the installation was successful, you'll see output in the terminal.
 
 ## Step two: Install Vale
 
 1. From the terminal, run the command `choco install vale`. You'll see some output in the terminal as Chocolatey installs Vale on your computer.
 
-2. To verify that you installed Vale, run the command `vale -v` in the terminal. This command prints the current version to the terminal. As of May 2020, the latest version is `1.7.1`. 
+2. To verify that you installed Vale, run the command `vale -v` in the terminal. If the installation was successful, the command reports the latest, stable version of Vale.
 
 ---
 
