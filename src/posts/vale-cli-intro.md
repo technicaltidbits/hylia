@@ -18,4 +18,4 @@ In this tutorial, you'll learn how to install the Vale, a style linter. This too
 
 Mac users, click [here](https://technicaltidbits.net/posts/vale-series/install-vale-mac).
 
-Windows users, click [here](https://technicaltidbits.net/posts/vale-series/install-vale-windows.md).
+Windows users, click [here](https://technicaltidbits.net/posts/vale-series/install-vale-windows).
